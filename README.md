@@ -1,6 +1,6 @@
 # Splotowa Sieć Neuronowa - Image Processing
 
-Model wygenerowany na potrzeby prezentacji odnośnie analizy obrazów przez splotowe sieci neuronowe. na koło naukowe 'Gauss' Politechniki Wrocławskiej.
+Model wygenerowany na potrzeby prezentacji odnośnie analizy obrazów przez splotowe sieci neuronowe na koło naukowe 'Gauss' Politechniki Wrocławskiej.
 
 Dane zostały pobrane z https://www.kaggle.com/puneet6060/intel-image-classification
 
